@@ -1,0 +1,3 @@
+displayName = Yet Another Mod
+author = GrandPere
+version = 0.1
