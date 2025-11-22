@@ -1,2 +1,8 @@
-# This file will automatically update with entries for new content after a build and reload.
+CommonItemTooltip.PercentIncreasedCritChance: "{0}% increased critical strike chance"
 
+Items: {
+	MagnifyingGlass: {
+		Tooltip: "{$CommonItemTooltip.PercentIncreasedCritChance}"
+		DisplayName: Magnifying Glass
+	}
+}
