@@ -10,4 +10,9 @@ Items: {
 		Tooltip: "{$CommonItemTooltip.PercentIncreasedCritChance}"
 		DisplayName: Golem Glass
 	}
+
+	FrozenZombieArm: {
+		Tooltip: ""
+		DisplayName: Frozen Zombie Arm
+	}
 }

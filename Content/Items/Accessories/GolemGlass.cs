@@ -12,9 +12,7 @@ namespace YetAnotherMod.Content.Items.Accessories
         public override LocalizedText Tooltip => base.Tooltip.WithFormatArgs(CritBonus);
 
         public override void SetDefaults() {
-            Item.width = 28;
-            Item.height = 28;
-            Item.accessory = true;
+            Item.DefaultToAccessory(28, 28);
             Item.rare = ItemRarityID.Lime;
             Item.value = Item.sellPrice(gold: 5);
         }
