@@ -5,4 +5,9 @@ Items: {
 		Tooltip: "{$CommonItemTooltip.PercentIncreasedCritChance}"
 		DisplayName: Magnifying Glass
 	}
+
+	GolemGlass: {
+		Tooltip: "{$CommonItemTooltip.PercentIncreasedCritChance}"
+		DisplayName: Golem Glass
+	}
 }
