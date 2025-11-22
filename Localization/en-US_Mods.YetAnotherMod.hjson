@@ -15,4 +15,9 @@ Items: {
 		Tooltip: ""
 		DisplayName: Frozen Zombie Arm
 	}
+
+	BloodyZombieArm: {
+		Tooltip: ""
+		DisplayName: Bloody Zombie Arm
+	}
 }
